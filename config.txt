@@ -1,0 +1,2 @@
+net.hind.ext.DaoImplv2
+net.hind.metier.MetierImpl
